@@ -17,7 +17,7 @@ namespace IdentityServerCenter {
         public Startup (IConfiguration configuration) {
             Configuration = configuration;
         }
-
+ 
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
@@ -25,8 +25,9 @@ namespace IdentityServerCenter {
             services.AddIdentityServer ()
                 .AddDeveloperSigningCredential ()
                 .AddInMemoryApiResources (Config.GetResource ())
-                .AddInMemoryClients (Config.GetClients ());
-                //.AddInMemoryIdentityResources (Config.GetIdentityResources ());
+                .AddInMemoryClients (Config.GetClients ())
+                .AddTestUsers (Config.GetTestUsers ());//密码模式
+            //.AddInMemoryIdentityResources (Config.GetIdentityResources ());
             // services.AddControllers ();
         }
 
