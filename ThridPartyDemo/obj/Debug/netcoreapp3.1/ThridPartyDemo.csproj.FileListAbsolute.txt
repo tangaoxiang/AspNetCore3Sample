@@ -1,0 +1,15 @@
+/Users/tangyaoxiang/Documents/Project/IdentityServerSample/ThridPartyDemo/bin/Debug/netcoreapp3.1/ThridPartyDemo.deps.json
+/Users/tangyaoxiang/Documents/Project/IdentityServerSample/ThridPartyDemo/bin/Debug/netcoreapp3.1/ThridPartyDemo.runtimeconfig.json
+/Users/tangyaoxiang/Documents/Project/IdentityServerSample/ThridPartyDemo/bin/Debug/netcoreapp3.1/ThridPartyDemo.runtimeconfig.dev.json
+/Users/tangyaoxiang/Documents/Project/IdentityServerSample/ThridPartyDemo/bin/Debug/netcoreapp3.1/ThridPartyDemo.dll
+/Users/tangyaoxiang/Documents/Project/IdentityServerSample/ThridPartyDemo/bin/Debug/netcoreapp3.1/ThridPartyDemo.pdb
+/Users/tangyaoxiang/Documents/Project/IdentityServerSample/ThridPartyDemo/obj/Debug/netcoreapp3.1/ThridPartyDemo.csprojAssemblyReference.cache
+/Users/tangyaoxiang/Documents/Project/IdentityServerSample/ThridPartyDemo/obj/Debug/netcoreapp3.1/ThridPartyDemo.csproj.CoreCompileInputs.cache
+/Users/tangyaoxiang/Documents/Project/IdentityServerSample/ThridPartyDemo/obj/Debug/netcoreapp3.1/ThridPartyDemo.AssemblyInfoInputs.cache
+/Users/tangyaoxiang/Documents/Project/IdentityServerSample/ThridPartyDemo/obj/Debug/netcoreapp3.1/ThridPartyDemo.AssemblyInfo.cs
+/Users/tangyaoxiang/Documents/Project/IdentityServerSample/ThridPartyDemo/obj/Debug/netcoreapp3.1/ThridPartyDemo.dll
+/Users/tangyaoxiang/Documents/Project/IdentityServerSample/ThridPartyDemo/obj/Debug/netcoreapp3.1/ThridPartyDemo.pdb
+/Users/tangyaoxiang/Documents/Project/IdentityServerSample/ThridPartyDemo/obj/Debug/netcoreapp3.1/ThridPartyDemo.genruntimeconfig.cache
+/Users/tangyaoxiang/Documents/Project/IdentityServerSample/ThridPartyDemo/bin/Debug/netcoreapp3.1/IdentityModel.dll
+/Users/tangyaoxiang/Documents/Project/IdentityServerSample/ThridPartyDemo/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/tangyaoxiang/Documents/Project/IdentityServerSample/ThridPartyDemo/obj/Debug/netcoreapp3.1/ThridPartyDemo.csproj.CopyComplete
